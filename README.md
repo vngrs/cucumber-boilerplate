@@ -1,4 +1,4 @@
-# Cucumber - Appium - Ruby - Cross Browser Testing
+# Cucumber - Appium - Ruby - Cross Platform Testing
 
 ## Installation
 
