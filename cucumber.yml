@@ -1,0 +1,2 @@
+android: -t @android --format html --out report.html --format pretty
+ios: -t @ios --format html --out report.html --format pretty

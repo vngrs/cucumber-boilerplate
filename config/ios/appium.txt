@@ -1,0 +1,10 @@
+[caps]
+platformName = "ios"
+platformVersion = "8.3"
+app = "./test.ipa"
+deviceName = "iPhone 8 Plus"
+
+bundleId = "me.beamwallet.Beam"
+
+[appium_lib]
+port = 4723

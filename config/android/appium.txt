@@ -1,0 +1,8 @@
+[caps]
+platformName = "Android"
+deviceName = "AnyName"
+app = "./app-debug.apk"
+appActivity = "com.beamwallet.home.HomeActivity"
+appPackage = "com.beamwallet"
+[appium_lib]
+port = 4723
